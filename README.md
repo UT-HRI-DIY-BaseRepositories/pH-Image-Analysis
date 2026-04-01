@@ -1,3 +1,4 @@
+See Student Guide 4.5a. 
 To test the app on your phone, scan the QR code to launch it on your phone. If you want to make an app icon on your phone home screen:
 iPhone => From the app, click the share button, select "Add to Home Screen"
 
